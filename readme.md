@@ -54,27 +54,10 @@ We welcome contributions that address these structural improvements and help mak
 1. **Online Streaming Section**: Introduce an online streaming feature to allow live video sessions, webinars, and interactive lectures. This will enhance the educational experience by providing real-time content delivery.
 2. **Chatbot Integration**: Implement a chatbot to assist users with common queries, guide them through the website, and provide real-time support. This will improve user interaction and make the platform more engaging.
 
-## Contributing
-
-If you are a developer interested in contributing to **EDUCLOUD**, please consider the following:
-
-- Review and implement authentication mechanisms.
-- Integrate a dedicated API for video management.
-- Migrate from HTML templates to EJS.
-- Replace Fetch API with Axios for API requests.
-- Investigate and resolve issues with the programming section.
-- Test the site’s responsiveness on multiple devices.
-- Explore and develop features for online streaming and chatbot integration.
-
-## License
-
-**EDUCLOUD** is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project as per the terms of the license.
-
 ## Author
 
-**Aditya Tiwari**
+**Aarav Vaish**
 
-For any queries or further information, please reach out to me.
 
 ---
 
